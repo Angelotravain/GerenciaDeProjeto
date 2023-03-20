@@ -10,3 +10,6 @@ Alteração para Ticket0001
 Ticket0002
 >>>>>>> Stashed changes
 Alteração para Ticket0001
+
+
+new Ticket0002
